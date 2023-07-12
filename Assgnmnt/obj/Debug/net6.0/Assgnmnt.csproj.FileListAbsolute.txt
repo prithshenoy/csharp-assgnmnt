@@ -1,0 +1,15 @@
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.csproj.AssemblyReference.cache
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.AssemblyInfoInputs.cache
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.AssemblyInfo.cs
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.csproj.CoreCompileInputs.cache
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\bin\Debug\net6.0\Assgnmnt.exe
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\bin\Debug\net6.0\Assgnmnt.deps.json
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\bin\Debug\net6.0\Assgnmnt.runtimeconfig.json
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\bin\Debug\net6.0\Assgnmnt.dll
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\bin\Debug\net6.0\Assgnmnt.pdb
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.dll
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\refint\Assgnmnt.dll
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.pdb
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\Assgnmnt.genruntimeconfig.cache
+C:\Users\prish\source\repos\Assgnmnt\Assgnmnt\obj\Debug\net6.0\ref\Assgnmnt.dll
